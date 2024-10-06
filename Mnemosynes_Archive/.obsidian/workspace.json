@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "555df50beed4c49d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c8cd4d7587f7069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042b2a4aa7a56dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Development/High Traffic Website Stacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b74eef474647e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f091048f1975f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2d6caad94bc34f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a83f43b41e0ee98b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ef31f33d4368097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "302c588063c0e079",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fbe82f8d8e637b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afccae7a71b1c054",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Development/High Traffic Website Stacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a714d2a85c39b5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Development/High Traffic Website Stacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c601d1a04d2a67fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4784989b6f62d52e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Development/High Traffic Website Stacks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa2d6caad94bc34f",
+  "lastOpenFiles": [
+    "tor_and_onions/Hidden Services & Forums.md",
+    "Welcome.md",
+    "tor_and_onions",
+    "SecurityResearch/Common Vulnerabilities (Web Services).md",
+    "SecurityResearch/Best Practices.md",
+    "Learning Opportunities/Certifciations.md",
+    "Software Development/High Traffic Website Stacks.md",
+    "Learning Opportunities",
+    "Software Development/Scaling.md",
+    "Software Development",
+    "Math/3-D Graphing.md",
+    "Math",
+    "Interesting People and Projects/Developers.md",
+    "Interesting People and Projects/Organizations.md",
+    "Interesting People and Projects/Frameworks.md",
+    "Interesting People and Projects",
+    "SecurityResearch",
+    "assets"
+  ]
+}
