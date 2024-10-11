@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8cd4d7587f7069",
+        "id": "b8a85e2e29b3c9c5",
         "type": "tabs",
         "children": [
           {
-            "id": "042b2a4aa7a56dfc",
+            "id": "0d4b1686d0bfaf2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development/High Traffic Website Stacks.md",
+                "file": "Programming/Python/Flask/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e821de1a1abae28e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting People and Projects/Developers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development/High Traffic Website Stacks.md",
+                "file": "Interesting People and Projects/Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development/High Traffic Website Stacks.md",
+                "file": "Interesting People and Projects/Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development/High Traffic Website Stacks.md"
+                "file": "Interesting People and Projects/Developers.md"
               }
             }
           }
@@ -146,15 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa2d6caad94bc34f",
+  "active": "e821de1a1abae28e",
   "lastOpenFiles": [
+    "Programming/Python/Flask/Links.md",
+    "Programming/Python/Flask/Untitled.md",
+    "Programming/Python/Flask",
+    "Programming/Python",
+    "Programming/Swift/Packages.md",
+    "Software Development/High Traffic Website Stacks.md",
+    "Programming/Swift",
+    "Programming",
     "tor_and_onions/Hidden Services & Forums.md",
     "Welcome.md",
     "tor_and_onions",
     "SecurityResearch/Common Vulnerabilities (Web Services).md",
     "SecurityResearch/Best Practices.md",
     "Learning Opportunities/Certifciations.md",
-    "Software Development/High Traffic Website Stacks.md",
     "Learning Opportunities",
     "Software Development/Scaling.md",
     "Software Development",
@@ -164,7 +184,6 @@
     "Interesting People and Projects/Organizations.md",
     "Interesting People and Projects/Frameworks.md",
     "Interesting People and Projects",
-    "SecurityResearch",
-    "assets"
+    "SecurityResearch"
   ]
 }
