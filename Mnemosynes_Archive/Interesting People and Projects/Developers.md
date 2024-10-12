@@ -3,4 +3,7 @@
 - #### [Miguel Grinberg](https://blog.miguelgrinberg.com/index), 
 	- [Courses and books](https://blog.miguelgrinberg.com/post/my-courses-and-books)
 	- Author of the [Flask-Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-	- 
+- Tsoding 
+	- "Recreational programmer"
+	- [Github](https://github.com/tsoding)
+- 

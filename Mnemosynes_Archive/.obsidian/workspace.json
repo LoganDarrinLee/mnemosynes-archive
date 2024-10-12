@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b8a85e2e29b3c9c5",
+        "id": "a5bf5fb2d86dadf7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4b1686d0bfaf2e",
+            "id": "07bf56bef23de086",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Flask/Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e821de1a1abae28e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interesting People and Projects/Developers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting People and Projects/Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interesting People and Projects/Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interesting People and Projects/Developers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,18 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e821de1a1abae28e",
+  "active": "07bf56bef23de086",
   "lastOpenFiles": [
+    "Interesting People and Projects/Developers.md",
+    "Welcome.md",
+    "Questions to Answer.md",
     "Programming/Python/Flask/Links.md",
+    "Untitled",
+    "Programming/Swift/Packages.md",
     "Programming/Python/Flask/Untitled.md",
     "Programming/Python/Flask",
     "Programming/Python",
-    "Programming/Swift/Packages.md",
     "Software Development/High Traffic Website Stacks.md",
     "Programming/Swift",
     "Programming",
     "tor_and_onions/Hidden Services & Forums.md",
-    "Welcome.md",
     "tor_and_onions",
     "SecurityResearch/Common Vulnerabilities (Web Services).md",
     "SecurityResearch/Best Practices.md",
@@ -180,10 +162,8 @@
     "Software Development",
     "Math/3-D Graphing.md",
     "Math",
-    "Interesting People and Projects/Developers.md",
     "Interesting People and Projects/Organizations.md",
     "Interesting People and Projects/Frameworks.md",
-    "Interesting People and Projects",
-    "SecurityResearch"
+    "Interesting People and Projects"
   ]
 }
