@@ -1,0 +1,5 @@
+- [ ] [OWASP Secure Configuration Guide](https://wiki.owasp.org/index.php/SCG_WS_nginx
+- [ ] [Is it ok to use http.Server in production-reddit](https://www.reddit.com/r/golang/comments/5povpp/is_it_ok_to_use_the_built_in_http_server_in/)
+	- [ ] [At 31:25, Rob Pike explains how dl.google.com is net/http](https://changelog.com/podcast/100)
+- [ ] [Database Connection Pooling](https://medium.com/@neelkanthsingh.jr/understanding-database-connection-pools-and-the-pgx-library-in-go-3087f3c5a0c)
+- [ ] 
