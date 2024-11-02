@@ -1,0 +1,2 @@
+- Great stack overflow read [How to use pgx with connection pool, context, prepared statements etc](https://stackoverflow.com/questions/76986363/how-to-use-jackc-pgx-with-connection-pool-context-prepared-statements-etc)
+- 
