@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a5bf5fb2d86dadf7",
+        "id": "62e9c32d62d436ba",
         "type": "tabs",
         "children": [
           {
-            "id": "07bf56bef23de086",
+            "id": "0850c64682df3802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions to Answer.md",
+                "file": "Programming/Golang/Packages/gforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions to Answer"
-            }
-          },
-          {
-            "id": "bbf635ed09357e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Golang/Examples and Documentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Examples and Documentation"
-            }
-          },
-          {
-            "id": "4289912402c2fce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Golang/Packages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Packages"
-            }
-          },
-          {
-            "id": "808db72b113f5da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software & Tool Docs/Vim/Command Mode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Command Mode"
+              "title": "gforms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,41 +164,41 @@
   },
   "active": "aa2d6caad94bc34f",
   "lastOpenFiles": [
+    "Programming/Golang/Packages/__superlist__.md",
+    "Programming/Golang/Packages/gforms.md",
+    "Programming/Golang/Packages/pgx.md",
+    "Programming/Golang/Interesting Projects to Review.md",
+    "Programming/Golang/http.Server Security Research.md",
+    "Programming/Golang/Examples and Documentation.md",
+    "Programming/Golang/Packages",
+    "Learning Opportunities/Certifciations.md",
+    "Interesting People and Projects/Developers.md",
+    "Interesting People and Projects/Organizations.md",
+    "Interesting People and Projects/Frameworks.md",
+    "Math/3-D Graphing.md",
+    "SecurityResearch/Server Hardening/Security Through Obscurity.md",
+    "SecurityResearch/Untitled.md",
+    "SecurityResearch/Server Hardening",
+    "Software Development/Scaling.md",
+    "Software Development/High Traffic Website Stacks.md",
+    "Programming/Naming Projects.md",
+    "Programming/Golang/Packages/Standard Library.md",
+    "SecurityResearch/Building Blocks/TLS.md",
+    "SecurityResearch/ACME.md",
+    "Untitled.md",
+    "Software & Tool Docs/Vim/Command Mode.md",
+    "Questions to Answer.md",
+    "SecurityResearch/Building Blocks/SSL.md",
+    "SSL/TLS.md",
+    "SSL",
+    "SecurityResearch/Building Blocks",
+    "Programming/Postgres/Storing Data.md",
     "Programming/Postgres",
     "Programming/Databases",
-    "Programming/Golang/Untitled 1.md",
     "Software & Tool Docs/Vim/Issues.md",
-    "Programming/Golang/Standard Library.md",
-    "Programming/Golang/pgx.md",
-    "Untitled",
-    "Programming/Golang/Packages.md",
-    "Programming/Golang/Examples and Documentation.md",
-    "Programming/Naming Projects.md",
-    "Software & Tool Docs/Emacs/Controls.md",
-    "Software & Tool Docs/Vim/Useful Links.md",
     "Software & Tool Docs/Emacs",
-    "Software & Tool Docs/Vim/Normal Mode.md",
-    "Software & Tool Docs/Vim/Insert Mode.md",
-    "Software & Tool Docs/Vim/Command Mode.md",
-    "Software & Tool Docs/Vim/Visual Mode.md",
     "Software & Tool Docs/Vim",
-    "Untitled.md",
-    "Programming/C++/Untitled.md",
-    "Job Search.md",
     "Programming/C++",
-    "Questions to Answer.md",
-    "SecurityResearch/Go STD http.Server Research.md",
-    "Programming/Golang",
-    "Interesting People and Projects/Frameworks.md",
-    "Interesting People and Projects/Developers.md",
-    "Welcome.md",
-    "SecurityResearch/Common Vulnerabilities (Web Services).md",
-    "SecurityResearch/Best Practices.md",
-    "Programming/Python/Flask/Links.md",
-    "Software & Tool Docs",
-    "Programming/Swift/Packages.md",
-    "Programming/Python/Flask",
-    "Programming/Python",
-    "Programming/Swift"
+    "Programming/Golang"
   ]
 }
