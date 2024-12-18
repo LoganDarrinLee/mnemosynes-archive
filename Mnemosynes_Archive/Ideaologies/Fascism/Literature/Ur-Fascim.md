@@ -1,0 +1,14 @@
+By: Umberto Eco
+[Copied from here](https://www.nybooks.com/articles/1995/06/22/ur-fascism/)
+
+Freedom and liberation are an unending task.
+
+In 1942, at the age of ten, I received the First Provincial Award of Ludi Juveniles (a voluntary, compulsory competition for young Italian Fascists—that is, for every young Italian). I elaborated with rhetorical skill on the subject “Should we die for the glory of Mussolini and the immortal destiny of Italy?” My answer was positive. I was a smart boy.
+
+I spent two of my early years among the SS, Fascists, Republicans, and partisans shooting at one another, and I learned how to dodge bullets. It was good exercise.
+
+In April 1945, the partisans took over in Milan. Two days later they arrived in the small town where I was living at the time. It was a moment of joy. The main square was crowded with people singing and waving flags, calling in loud voices for Mimo, the partisan leader of that area. A former _maresciallo_ of the Carabinieri, Mimo joined the supporters of General Badoglio, Mussolini’s successor, and lost a leg during one of the first clashes with Mussolini’s remaining forces. Mimo showed up on the balcony of the city hall, pale, leaning on his crutch, and with one hand tried to calm the crowd. I was waiting for his speech because my whole childhood had been marked by the great historic speeches of Mussolini, whose most significant passages we memorized in school. Silence. Mimo spoke in a hoarse voice, barely audible. He said: “Citizens, friends. After so many painful sacrifices … here we are. Glory to those who have fallen for freedom.” And that was it. He went back inside. The crowd yelled, the partisans raised their guns and fired festive volleys. We kids hurried to pick up the shells, precious items, but I had also learned that freedom of speech means freedom from rhetoric.
+
+A few days later I saw the first American soldiers. They were African Americans. The first Yankee I met was a black man, Joseph, who introduced me to the marvels of Dick Tracy and Li’l Abner. His comic books were brightly colored and smelled good.
+
+One of the officers (Major or Captain Muddy) was a guest in the villa of a family whose two daughters were my schoolmates. I met him in their garden where some ladies, surrounding Captain Muddy, talked in tentative French. Captain Muddy knew some French, too. My first image of American liberators was thus—after so many palefaces in black shirts—that of a cultivated black man in a yellow-green uniform saying: “_Oui, merci beaucoup, Madame, moi aussi j’aime le champagne_…” Unfortunately there was no champagne, but Captain Muddy gave me my first piece of Wrigley’s Spearmint and I started chewing all day long. At night I put my wad in a water glass, so it would be fresh for the next day.

@@ -1,0 +1,5 @@
+- lsof
+	- "List open files", lists open files and the processes that access them. 
+	- Usages examples
+		- sudo lsof -i :\<port> *Show what process is using port provided*
+		- 
