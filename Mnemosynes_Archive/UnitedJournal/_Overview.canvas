@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2c6eb153e2970a50","x":1280,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Order Service.md"},
+		{"id":"bcc47cfeaa220bf1","x":1800,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Customer Service.md"},
+		{"id":"2a0273a91894b0dd","x":-280,"y":-600,"width":400,"height":400,"type":"file","file":"UnitedJournal/Branch Service.md"},
+		{"id":"658b8b82f0a4eac7","type":"file","file":"UnitedJournal/User Service.md","x":-800,"y":-600,"width":400,"height":409},
+		{"id":"f152b17f5919ccb5","x":760,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Product Service.md"},
+		{"id":"3552860118fe82c6","x":235,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Feed Service.md"},
+		{"id":"b91ec8e516b39911","x":2320,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Project Service.md"},
+		{"id":"9f547423ce4bbf0b","type":"text","text":"## Services \n- [[User Service]]\n- [[Branch Service]]\n- [[Feed Service]]\n- [[Product Service]]\n- [[Order Service]]\n- [[Customer Service]]\n- [[Project Service]]","x":805,"y":-1360,"width":310,"height":320,"color":"3"},
+		{"id":"f308d4d6608ecb5b","type":"file","file":"UnitedJournal/Checklist.md","x":-2280,"y":-1320,"width":800,"height":560},
+		{"id":"d54da385498607d5","type":"text","text":"# Request Lifecycle\n","x":-2080,"y":160,"width":370,"height":80}
+	],
+	"edges":[
+		{"id":"ba97dec302ea00fa","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"658b8b82f0a4eac7","toSide":"top"},
+		{"id":"2ac1ef3b1d320fd5","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"2a0273a91894b0dd","toSide":"top"},
+		{"id":"86786ef62137d8e1","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"3552860118fe82c6","toSide":"top"},
+		{"id":"a8dd901b8c6bbe2c","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"f152b17f5919ccb5","toSide":"top"},
+		{"id":"09724ff3229429a8","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"2c6eb153e2970a50","toSide":"top"},
+		{"id":"47d2756e9017f068","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"bcc47cfeaa220bf1","toSide":"top"},
+		{"id":"4298e0153d6ffc42","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"b91ec8e516b39911","toSide":"top"}
+	]
+}

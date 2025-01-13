@@ -1,0 +1,1 @@
+Political, religious, and other categories of ideologies are all encompassed in this directory.

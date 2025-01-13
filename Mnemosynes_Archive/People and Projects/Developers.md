@@ -7,4 +7,3 @@
 	- "Recreational programmer"
 	- Very good programmer, Emacs wizard, love watching him build projects.
 	- [GitHub](https://github.com/tsoding)
-- 
