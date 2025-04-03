@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9044681326f580d6",
+        "id": "93e5dbf438641c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "c8524e9da8bf6c98",
+            "id": "a6b785d1a0e0771c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Project Ideas/Archive of the Ages.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Archive of the Ages"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,11 +163,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8524e9da8bf6c98",
+  "active": "a6b785d1a0e0771c",
   "lastOpenFiles": [
+    "Project Ideas/Blog to vault.md",
+    "Project Ideas/Archive of the Ages.md",
+    "Project Ideas/Open-Politics.md",
+    "Project Ideas/Bulk Buying Forum.md",
+    "Software & Technology/Docker/ChatGPT Overview.md",
+    "SecurityResearch/SELinux.md",
+    "Software & Technology/htmx",
+    "SecurityResearch/Security Through Obscurity.md",
+    "SecurityResearch/Untitled",
+    "SecurityResearch/Server Hardening/Untitled.md",
+    "Software & Technology/Untitled.md",
+    "Software & Technology/Postgres/Defining Tables.md",
+    "UnitedJournal/Product Life Cycle.md",
+    "UnitedJournal/_Overview.canvas",
+    "UnitedJournal/Report Service.md",
+    "UnitedJournal/Branch Service.md",
+    "UnitedJournal/Checklist.md",
     "Software & Technology/Lidar/Lidar Repositories.md",
     "Project Ideas/Quote Books.md",
-    "UnitedJournal/_Overview.canvas",
     "UnitedJournal/Feed Service.md",
     "UnitedJournal/Features.md",
     "UnitedJournal/Product Service.md",
@@ -171,22 +192,8 @@
     "Project Ideas/Logan Building Products.md",
     "People and Projects/Developers.md",
     "Project Ideas/Turn Based Strategy Game.md",
-    "Project Ideas/Blog to vault.md",
     "Questions to Answer.md",
     "Welcome.md",
-    "Untitled.md",
-    "Job Search.md",
-    "Ekitchen Check.md",
-    "Learning Opportunities/Certifciations.md",
-    "SecurityResearch/Common Vulnerabilities (Web Services).md",
-    "SecurityResearch/Untitled.md",
-    "SecurityResearch/Best Practices.md",
-    "SecurityResearch/ACME.md",
-    "Project Ideas/in-gen-man.md",
-    "Project Ideas/Drug Dealer Simulator.md",
-    "Project Ideas/Contractor Hub.md",
-    "Project Ideas/Quest Calendar.md",
-    "Project Ideas/Space Strategy Game.md",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
     "Software & Technology/Lidar",
@@ -197,8 +204,6 @@
     "Software & Technology/SQLC",
     "Software & Technology/Web",
     "Software & Technology/Tor",
-    "Psychological Operations/Baldoni v Lively",
-    "Psychological Operations",
     "Software & Tool Docs/Untitled.canvas",
     "Intelligence Project/Untitled.canvas"
   ]

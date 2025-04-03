@@ -1,15 +1,30 @@
 {
 	"nodes":[
-		{"id":"2c6eb153e2970a50","x":1280,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Order Service.md"},
-		{"id":"bcc47cfeaa220bf1","x":1800,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Customer Service.md"},
-		{"id":"2a0273a91894b0dd","x":-280,"y":-600,"width":400,"height":400,"type":"file","file":"UnitedJournal/Branch Service.md"},
+		{"id":"2c6eb153e2970a50","type":"file","file":"UnitedJournal/Order Service.md","x":1280,"y":-591,"width":400,"height":400},
+		{"id":"bcc47cfeaa220bf1","type":"file","file":"UnitedJournal/Customer Service.md","x":1800,"y":-591,"width":400,"height":400},
+		{"id":"2a0273a91894b0dd","type":"file","file":"UnitedJournal/Branch Service.md","x":-280,"y":-600,"width":400,"height":400},
 		{"id":"658b8b82f0a4eac7","type":"file","file":"UnitedJournal/User Service.md","x":-800,"y":-600,"width":400,"height":409},
-		{"id":"f152b17f5919ccb5","x":760,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Product Service.md"},
-		{"id":"3552860118fe82c6","x":235,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Feed Service.md"},
-		{"id":"b91ec8e516b39911","x":2320,"y":-591,"width":400,"height":400,"type":"file","file":"UnitedJournal/Project Service.md"},
-		{"id":"9f547423ce4bbf0b","type":"text","text":"## Services \n- [[User Service]]\n- [[Branch Service]]\n- [[Feed Service]]\n- [[Product Service]]\n- [[Order Service]]\n- [[Customer Service]]\n- [[Project Service]]","x":805,"y":-1360,"width":310,"height":320,"color":"3"},
+		{"id":"f152b17f5919ccb5","type":"file","file":"UnitedJournal/Product Service.md","x":760,"y":-591,"width":400,"height":400},
+		{"id":"3552860118fe82c6","type":"file","file":"UnitedJournal/Feed Service.md","x":235,"y":-591,"width":400,"height":400},
+		{"id":"b91ec8e516b39911","type":"file","file":"UnitedJournal/Project Service.md","x":2320,"y":-591,"width":400,"height":400},
 		{"id":"f308d4d6608ecb5b","type":"file","file":"UnitedJournal/Checklist.md","x":-2280,"y":-1320,"width":800,"height":560},
-		{"id":"d54da385498607d5","type":"text","text":"# Request Lifecycle\n","x":-2080,"y":160,"width":370,"height":80}
+		{"id":"d54da385498607d5","type":"text","text":"# Request Lifecycle\n","x":-2080,"y":160,"width":370,"height":240},
+		{"id":"7b93b2fef1d282ab","type":"file","file":"UnitedJournal/Report Service.md","x":2880,"y":-591,"width":400,"height":400},
+		{"id":"9f547423ce4bbf0b","type":"text","text":"## Services \n- [[User Service]]\n- [[Branch Service]]\n- [[Feed Service]]\n- [[Product Service]]\n- [[Order Service]]\n- [[Customer Service]]\n- [[Project Service]]","x":1005,"y":-1440,"width":310,"height":320,"color":"3"},
+		{"id":"5f1813da88d6424f","type":"text","text":"Product Life Cycle","x":4579,"y":-1531,"width":250,"height":60},
+		{"id":"91457b7af4d4c2dc","type":"text","text":"### Create/Add to system\n- Name \n- SKU \n- Vendor \n- Vendor Product number\n- Cost\n- Unit relationships","x":4920,"y":-1648,"width":380,"height":228},
+		{"id":"ba04c4976c4eab54","type":"text","text":"### Add Product to Order\n","x":4920,"y":-1340,"width":380,"height":50},
+		{"id":"b3cd4e6326122634","type":"text","text":"### Order Item\n- Assign to PO (PO not automatically submitted by default.)\n- If item is not attached to a purchase order, send notification to branch staff to check ","x":4402,"y":-1056,"width":380,"height":207},
+		{"id":"a16bca778d9a5b10","type":"text","text":"### Receive From PO\n\n- Link picture of items delivered to the purchase order for later inquiries. (Before anything else is done)\n- Check quantities ordered vs  physically received.\n- Make sure item is in good condition.\n- ","x":4402,"y":-760,"width":380,"height":337},
+		{"id":"848b7e62b3be550f","type":"text","text":"Non-stock item.\n","x":4480,"y":-1173,"width":224,"height":60},
+		{"id":"0793daede3f97cbf","type":"text","text":"Stock Item","x":5762,"y":-1168,"width":250,"height":60},
+		{"id":"5d4202fbca475e92","type":"text","text":"Quantity on hand > 0\n\n","x":6231,"y":-910,"width":272,"height":50},
+		{"id":"b7739701339c008e","type":"text","text":"Review product allocations. Requests branch product service.","x":6190,"y":-640,"width":355,"height":100},
+		{"id":"d9d53411734d2b1b","type":"text","text":"Quantity > 0, but allocated to orders.","x":5833,"y":-360,"width":398,"height":75},
+		{"id":"78f36bca0f7b44af","type":"text","text":"Quantity on hand <= 0","x":5163,"y":-899,"width":309,"height":50},
+		{"id":"9ffca6b64b759b76","x":5120,"y":-360,"width":394,"height":75,"type":"text","text":"Request Loop service product service."},
+		{"id":"103c4014ee08ab8b","x":4920,"y":-80,"width":296,"height":50,"type":"text","text":"Not available in loop."},
+		{"id":"3f0f6fdec622ffcb","x":5360,"y":-80,"width":412,"height":50,"type":"text","text":"Loop branch has stock available. "}
 	],
 	"edges":[
 		{"id":"ba97dec302ea00fa","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"658b8b82f0a4eac7","toSide":"top"},
@@ -18,6 +33,18 @@
 		{"id":"a8dd901b8c6bbe2c","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"f152b17f5919ccb5","toSide":"top"},
 		{"id":"09724ff3229429a8","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"2c6eb153e2970a50","toSide":"top"},
 		{"id":"47d2756e9017f068","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"bcc47cfeaa220bf1","toSide":"top"},
-		{"id":"4298e0153d6ffc42","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"b91ec8e516b39911","toSide":"top"}
+		{"id":"4298e0153d6ffc42","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"b91ec8e516b39911","toSide":"top"},
+		{"id":"81852a0784e32ee4","fromNode":"9f547423ce4bbf0b","fromSide":"bottom","toNode":"7b93b2fef1d282ab","toSide":"top"},
+		{"id":"02659905bb281c73","fromNode":"91457b7af4d4c2dc","fromSide":"bottom","toNode":"ba04c4976c4eab54","toSide":"top"},
+		{"id":"07c4b4fae825a753","fromNode":"ba04c4976c4eab54","fromSide":"left","toNode":"848b7e62b3be550f","toSide":"top"},
+		{"id":"d49cd0ace2a09fbb","fromNode":"ba04c4976c4eab54","fromSide":"right","toNode":"0793daede3f97cbf","toSide":"top"},
+		{"id":"a5fffb1a28390e2f","fromNode":"0793daede3f97cbf","fromSide":"bottom","toNode":"5d4202fbca475e92","toSide":"top"},
+		{"id":"977ad22019eef813","fromNode":"5d4202fbca475e92","fromSide":"bottom","toNode":"b7739701339c008e","toSide":"top"},
+		{"id":"ab516387217cc9c6","fromNode":"b7739701339c008e","fromSide":"bottom","toNode":"d9d53411734d2b1b","toSide":"top"},
+		{"id":"c1af37d93605c2a4","fromNode":"0793daede3f97cbf","fromSide":"bottom","toNode":"78f36bca0f7b44af","toSide":"top"},
+		{"id":"8fa8f12694786e7a","fromNode":"78f36bca0f7b44af","fromSide":"bottom","toNode":"9ffca6b64b759b76","toSide":"top"},
+		{"id":"6078a073e2b25a6c","fromNode":"d9d53411734d2b1b","fromSide":"left","toNode":"9ffca6b64b759b76","toSide":"right"},
+		{"id":"c88cf2266941f27a","fromNode":"9ffca6b64b759b76","fromSide":"bottom","toNode":"3f0f6fdec622ffcb","toSide":"top"},
+		{"id":"04537fc521792958","fromNode":"9ffca6b64b759b76","fromSide":"bottom","toNode":"103c4014ee08ab8b","toSide":"top"}
 	]
 }
