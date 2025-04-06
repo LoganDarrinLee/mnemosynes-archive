@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas/Archive of the Ages.md",
+                "file": "Game Development/RTS Game/Inspiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archive of the Ages"
+              "title": "Inspiration"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "a6b785d1a0e0771c",
   "lastOpenFiles": [
-    "Project Ideas/Blog to vault.md",
+    "Game Development/RTS Game/Brainstorming.md",
+    "Game Development/RTS Game/Inspiration.md",
+    "Game Development/Godot/Build Your Own RTS Tutorial.md",
+    "Game Development/RTS Game",
     "Project Ideas/Archive of the Ages.md",
+    "Project Ideas/Blog to vault.md",
     "Project Ideas/Open-Politics.md",
     "Project Ideas/Bulk Buying Forum.md",
     "Software & Technology/Docker/ChatGPT Overview.md",
@@ -191,9 +195,6 @@
     "Project Ideas/Gutterboys.md",
     "Project Ideas/Logan Building Products.md",
     "People and Projects/Developers.md",
-    "Project Ideas/Turn Based Strategy Game.md",
-    "Questions to Answer.md",
-    "Welcome.md",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
     "Software & Technology/Lidar",
@@ -203,7 +204,6 @@
     "World Events",
     "Software & Technology/SQLC",
     "Software & Technology/Web",
-    "Software & Technology/Tor",
     "Software & Tool Docs/Untitled.canvas",
     "Intelligence Project/Untitled.canvas"
   ]
