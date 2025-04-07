@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Development/RTS Game/Inspiration.md",
+                "file": "Game Development/RTS Game/Assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inspiration"
+              "title": "Assets"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "a6b785d1a0e0771c",
   "lastOpenFiles": [
-    "Game Development/RTS Game/Brainstorming.md",
     "Game Development/RTS Game/Inspiration.md",
+    "Game Development/RTS Game/Assets.md",
+    "Game Development/RTS Game/Brainstorming.md",
     "Game Development/Godot/Build Your Own RTS Tutorial.md",
     "Game Development/RTS Game",
     "Project Ideas/Archive of the Ages.md",
@@ -194,7 +195,6 @@
     "UnitedJournal/Project Service.md",
     "Project Ideas/Gutterboys.md",
     "Project Ideas/Logan Building Products.md",
-    "People and Projects/Developers.md",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
     "Software & Technology/Lidar",
