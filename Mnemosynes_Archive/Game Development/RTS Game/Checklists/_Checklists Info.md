@@ -1,0 +1,1 @@
+Each file will contain a list of items that need to be added to the game. Along with very well documented systems of how the game works. 
