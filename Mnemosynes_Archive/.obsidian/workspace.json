@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Development/RTS Game/DevLogs/04-06-2025.md",
+                "file": "Game Development/Godot/Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-06-2025"
+              "title": "Components"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "fe2676e280eaa8b4",
   "lastOpenFiles": [
-    "Game Development/RTS Game/Checklists/Resource Systems.md",
     "Game Development/RTS Game/DevLogs/04-06-2025.md",
+    "Game Development/Godot/Components.md",
+    "Game Development/RTS Game/Checklists/Resource Systems.md",
     "Game Development/Godot/Component Paradigm.md",
     "Game Development/RTS Game/Checklists/_Checklists Info.md",
     "Game Development/RTS Game/Checklists",
@@ -196,7 +197,6 @@
     "UnitedJournal/Branch Service.md",
     "UnitedJournal/Checklist.md",
     "Software & Technology/Lidar/Lidar Repositories.md",
-    "Project Ideas/Quote Books.md",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
     "Software & Technology/Lidar",
