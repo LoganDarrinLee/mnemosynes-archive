@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Components"
             }
+          },
+          {
+            "id": "95e0fe2d443225ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Development/Zombie Defense/One-Page Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One-Page Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe2676e280eaa8b4",
+  "active": "95e0fe2d443225ea",
   "lastOpenFiles": [
+    "Game Development/One-Page Design Document.md",
+    "Game Development/Zombie Defense/One-Page Design.md",
+    "Game Development/Planing Templates.md",
+    "assets/majestic-revalations-planning-document.pdf",
+    "assets/grand-theft-auto-game-design 1.pdf",
+    "assets/grand-theft-auto-game-design.pdf",
+    "Game Development/Godot/Shooting Projectiles.md",
+    "Game Development/RTS Game/Brainstorming.md",
+    "Game Development/Zombie Defense",
     "Game Development/RTS Game/DevLogs/04-06-2025.md",
     "Game Development/Godot/Components.md",
     "Game Development/RTS Game/Checklists/Resource Systems.md",
@@ -174,7 +198,6 @@
     "Game Development/Godot/Build Your Own RTS Tutorial.md",
     "Game Development/RTS Game/In-Game Resources.md",
     "Game Development/RTS Game/DevLogs",
-    "Game Development/RTS Game/Brainstorming.md",
     "Untitled.md",
     "Game Development/RTS Game/Inspiration.md",
     "Game Development/RTS Game/Assets.md",
@@ -193,17 +216,9 @@
     "Software & Technology/Postgres/Defining Tables.md",
     "UnitedJournal/Product Life Cycle.md",
     "UnitedJournal/_Overview.canvas",
-    "UnitedJournal/Report Service.md",
-    "UnitedJournal/Branch Service.md",
-    "UnitedJournal/Checklist.md",
-    "Software & Technology/Lidar/Lidar Repositories.md",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
-    "Software & Technology/Lidar",
-    "in-gen-man",
     "assets/syrian_civil_war_actors.png",
-    "World Events/Untitled",
-    "World Events",
     "Software & Tool Docs/Untitled.canvas",
     "Intelligence Project/Untitled.canvas"
   ]
