@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b73c3860d09b978",
+        "id": "03966ddfbbf8cc70",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2676e280eaa8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Development/Godot/Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Components"
-            }
-          },
-          {
-            "id": "95e0fe2d443225ea",
+            "id": "21433d2d63608b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +163,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e0fe2d443225ea",
+  "active": "21433d2d63608b57",
   "lastOpenFiles": [
-    "Game Development/Zombie Defense/One-Page Design.md",
+    "Game Development/Money-Mule/Money Mule.md",
     "Game Development/Ideas.md",
+    "Game Development/Godot/Build Your Own RTS Tutorial.md",
+    "Game Development/Godot/Components.md",
+    "Math/3D Vector Math.md",
+    "Math/3-D Graphing.md",
     "Game Development/One-Page Design Document.md",
+    "Game Development/Money-Mule",
+    "Game Development/Zombie Defense/One-Page Design.md",
+    "Project Ideas/LeeDar or LoDar.md",
+    "Project Ideas/Callie's Car Sensors.md",
+    "Project Ideas/Local Farmer.md",
+    "Project Ideas/Archive of the Ages.md",
+    "Project Ideas/Drug Dealer Simulator.md",
     "Game Development/Planing Templates.md",
     "assets/majestic-revalations-planning-document.pdf",
     "assets/grand-theft-auto-game-design 1.pdf",
@@ -191,32 +187,21 @@
     "Game Development/RTS Game/Brainstorming.md",
     "Game Development/Zombie Defense",
     "Game Development/RTS Game/DevLogs/04-06-2025.md",
-    "Game Development/Godot/Components.md",
     "Game Development/RTS Game/Checklists/Resource Systems.md",
     "Game Development/Godot/Component Paradigm.md",
     "Game Development/RTS Game/Checklists/_Checklists Info.md",
     "Game Development/RTS Game/Checklists",
-    "Game Development/Godot/Build Your Own RTS Tutorial.md",
     "Game Development/RTS Game/In-Game Resources.md",
     "Game Development/RTS Game/DevLogs",
     "Untitled.md",
     "Game Development/RTS Game/Inspiration.md",
     "Game Development/RTS Game/Assets.md",
     "Game Development/RTS Game",
-    "Project Ideas/Archive of the Ages.md",
     "Project Ideas/Blog to vault.md",
     "Project Ideas/Open-Politics.md",
-    "Project Ideas/Bulk Buying Forum.md",
-    "Software & Technology/Docker/ChatGPT Overview.md",
-    "SecurityResearch/SELinux.md",
     "Software & Technology/htmx",
-    "SecurityResearch/Security Through Obscurity.md",
     "SecurityResearch/Untitled",
-    "SecurityResearch/Server Hardening/Untitled.md",
-    "Software & Technology/Untitled.md",
-    "Software & Technology/Postgres/Defining Tables.md",
     "UnitedJournal/_Overview.canvas",
-    "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
     "assets/syrian_civil_war_actors.png",
     "Software & Tool Docs/Untitled.canvas",
