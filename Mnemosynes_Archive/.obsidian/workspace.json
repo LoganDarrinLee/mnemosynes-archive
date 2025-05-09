@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Development/Zombie Defense/One-Page Design.md",
+                "file": "Game Development/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One-Page Design"
+              "title": "Ideas"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "95e0fe2d443225ea",
   "lastOpenFiles": [
-    "Game Development/One-Page Design Document.md",
     "Game Development/Zombie Defense/One-Page Design.md",
+    "Game Development/Ideas.md",
+    "Game Development/One-Page Design Document.md",
     "Game Development/Planing Templates.md",
     "assets/majestic-revalations-planning-document.pdf",
     "assets/grand-theft-auto-game-design 1.pdf",
@@ -214,7 +215,6 @@
     "SecurityResearch/Server Hardening/Untitled.md",
     "Software & Technology/Untitled.md",
     "Software & Technology/Postgres/Defining Tables.md",
-    "UnitedJournal/Product Life Cycle.md",
     "UnitedJournal/_Overview.canvas",
     "Project Ideas/Untitled",
     "assets/Pasted image 20250112183930.png",
